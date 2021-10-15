@@ -18,8 +18,8 @@
                         <figure class="mb-4"><img class="img-fluid rounded" src="https://media.istockphoto.com/photos/various-sport-equipments-on-grass-picture-id949190756?k=20&m=949190756&s=612x612&w=0&h=9loU1wPMKi9eK89EDxBfz4AarpAl8BFo1iO5XGHpXX0=" alt="..." /></figure>
                         <!-- Post content-->
                         <section class="mb-5">
-                            <p class="fs-5 mb-4">Arya Sport mempunyai komitmen untuk menyediakan peralatan olahraga untuk atlet dalam berbagai macam bidang, dan selalu menjamin mutu dan kualitas setiap peralatan yang ditawarkan. Arya Sport hanya menyediakan produk 100% original dari berbagai macam brand terkenal, seperti ADIDAS, PUMA, NIKE, YONEX dan lain sebagainnya, dengan jaminan uang kembali 100 persen jika barang yang dibeli berupakan barang tiruan.</p>
-                            <p class="fs-5 mb-4">Silahkan datang dan kostumisasi peralatan olahraga anda di <strong>Arya Sport</strong>, Toko dengan koleksi terlengkap di Kota Batu, menyediakan segala kebutuhan olahraga anda.</p>
+                            <p class="fs-5 mb-4">Ini Baru</p>
+                            
                         </section>
                     </article>
                     
